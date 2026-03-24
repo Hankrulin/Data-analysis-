@@ -66,9 +66,6 @@ The target variable is:
 4. Implement prediction models
 5. Train prediction models
 6. Test prediction models and show results
-7. Compare the models and choose the best one
-8. Provide recommendations
-9. Reflect on learning outcomes
 
 ---
 
@@ -229,8 +226,5 @@ This project also improved my understanding of how machine learning can be appli
 3. Open the Jupyter Notebook
 4. Run all cells in order
 
-Example:
+The Visualize graph can see Jupyter Notebook file
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn notebook
-jupyter notebook
