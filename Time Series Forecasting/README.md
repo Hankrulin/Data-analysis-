@@ -110,10 +110,10 @@ This project demonstrates the following skills:
 
 ## Project Files
 
-- `a1906146_Lin chung Ju_assign2.ipynb` — full notebook containing the workflow
+- `Time_Series_Forecasting.ipynb` — full notebook containing the workflow
 - `energydata_complete.csv` — dataset used in the analysis
 - `README.md` — project summary
 
 ## The Visual charts
 
-Please open the jupyter notebook file Time_Series_Forecasting.ipynb to see the Visual charts
+Please open the jupyter notebook file `Time_Series_Forecasting.ipynb` to see the Visual charts
