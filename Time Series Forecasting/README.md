@@ -6,7 +6,7 @@ The objective of the project is to predict appliance energy usage and determine 
 
 ## Summary
 
-In this project, I:
+What I did in this project:
 
 - analysed time-based patterns in household energy consumption
 - engineered cyclical time features to better represent repeating temporal behaviour
